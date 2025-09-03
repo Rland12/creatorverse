@@ -3,6 +3,7 @@ import { NavLink, useRoutes, Navigate } from "react-router";
 import ShowCreators from "./pages/ShowCreators";
 import AddCreator from "./pages/AddCreator";
 import EditCreator from "./pages/EditCreator";
+import CreatorDetails from "./pages/CreatorDetails";
 import "./App.css";
 
 export default function App() {
@@ -11,6 +12,7 @@ export default function App() {
     { path: "/all", element: <ShowCreators /> },
     { path: "/add", element: <AddCreator /> },
     { path: "/edit/:id", element: <EditCreator /> },
+    { path: "/creator/:id", element: <CreatorDetails /> },
     { path: "*", element: <div>Not Found</div> },          
   ]);
 

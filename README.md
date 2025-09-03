@@ -29,17 +29,13 @@ The following **optional** features are implemented:
 
 The following **additional** features are implemented:
 
-- [X] Details page is a modal for better functionality
 - [X] Media queries for mobile friendliness
 
 ## Video Walkthrough
 
 Here's a walkthrough of implemented required features:
 
-👉🏿<img src='http://i.imgur.com/link/to/your/gif/file.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
-
-<!-- Replace this with whatever GIF tool you used! -->
-GIF created with ...  👉🏿 ![ScreenToGif](Creatorverse_gif-1.gif)
+👉🏿 [ScreenToGif](Creatorverse_gif.gif)
 
 <!-- Recommended tools:
 [Kap](https://getkap.co/) for macOS
