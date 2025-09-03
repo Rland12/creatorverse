@@ -35,7 +35,7 @@ The following **additional** features are implemented:
 
 Here's a walkthrough of implemented required features:
 
-👉🏿 [ScreenToGif](Creatorverse_gif.gif)
+👉🏿 ![ScreenToGif](Creatorverse_gif.gif)
 
 <!-- Recommended tools:
 [Kap](https://getkap.co/) for macOS
